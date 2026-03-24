@@ -28,4 +28,4 @@ A full-stack Machine Learning application that predicts house prices based on fe
 3. *Run Dashboard:* streamlit run ui/app.py
 
  ## Dashboard Preview
- 
+ <img width="1337" height="586" alt="Image" src="https://github.com/user-attachments/assets/547a0ef4-0781-4546-9c7c-8def7b53a825" />
